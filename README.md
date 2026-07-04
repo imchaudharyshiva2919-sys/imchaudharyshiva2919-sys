@@ -24,7 +24,7 @@ const shivam = {
   name:     "Shivam Chaudhary",
   role:     "Frontend Developer (Fresher)",
   location: "India 🇮🇳",
-  learning: ["JavaScript", "React (soon)", "Full Stack Development"],
+  learning: ["JavaScript", "React", "Full Stack Development"],
   goal:     "Become a skilled Full Stack Web Developer 🚀",
   funFact:  "I craft pixel-perfect UIs using only HTML & CSS 🎨"
 };
