@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://shivamchaudhary19.github.io/portfolio/" target="_blank">
+  <a href="https://shivam-chaudhary.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=58A6FF" />
   </a>
   <a href="https://www.linkedin.com/in/shivam-chaudhary-0101843ab" target="_blank">
@@ -64,7 +64,7 @@ const shivam = {
 | --------------------------- | -------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------ |
 | 🎓 **Next Gen Academy**     | Modern educational institute landing page with responsive layouts & interactive sections     | HTML, CSS | [🔗 View Live](https://shivamchaudhary19.github.io/next-gen-academy/)    |
 | 🏍️ **Velocity Superbikes** | Cinematic superbike showcase with CSS animations, layered typography & premium visual design | HTML, CSS | [🔗 View Live](https://shivamchaudhary19.github.io/velocity-superbikes/) |
-| 💼 **My Portfolio**         | Personal portfolio showcasing my skills, projects & contact info                             | HTML, CSS | [🔗 View Live](https://shivamchaudhary19.github.io/portfolio/)           |
+| 💼 **My Portfolio**         | Personal portfolio showcasing my skills, projects & contact info                             | HTML, CSS | [🔗 View Live](https://shivamchaudhary19.github.io/portfolio/)](https://shivam-chaudhary.vercel.app/)           |
 
 ---
 
@@ -104,7 +104,7 @@ const shivam = {
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://shivamchaudhary19.github.io/portfolio/">
+  <a href="https://shivam-chaudhary.vercel.app/">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=58A6FF" />
   </a>
 </p>
