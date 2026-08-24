@@ -63,8 +63,8 @@ const shivam = {
 | Project                     | Description                                                                                  | Tech      | Live Demo                                                                |
 | --------------------------- | -------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------ |
 | 🎓 **Next Gen Academy**     | Modern educational institute landing page with responsive layouts & interactive sections     | HTML, CSS | [🔗 View Live](https://shivamchaudhary19.github.io/next-gen-academy/)    |
-| 🏍️ **Velocity Superbikes** | Cinematic superbike showcase with CSS animations, layered typography & premium visual design | HTML, CSS | [🔗 View Live](https://shivamchaudhary19.github.io/velocity-superbikes/) |
-| 💼 **My Portfolio**         | Personal portfolio showcasing my skills, projects & contact info                             | HTML, CSS | [🔗 View Live](https://shivamchaudhary19.github.io/portfolio/)](https://shivam-chaudhary.vercel.app/)           |
+| 🏍️ **Velocity Superbikes** | Cinematic superbike showcase with CSS animations, layered typography & premium visual design | HTML, CSS, JS | [🔗 View Live](https://shivamchaudhary19.github.io/velocity-superbikes/) |
+| 💼 **My Portfolio**         | Personal portfolio showcasing my skills, projects & contact info                             | HTML, CSS, REACT JS | [🔗 View Live](https://shivamchaudhary19.github.io/portfolio/)           |
 
 ---
 
